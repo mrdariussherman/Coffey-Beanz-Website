@@ -1,0 +1,9 @@
+#color {
+    background-color: #4484ce;
+}
+
+#text, a {
+    text-transform: capitalize;
+    font-weight: bold;
+    color: #f9cf00;
+}
